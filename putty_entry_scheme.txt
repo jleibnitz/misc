@@ -1,0 +1,15 @@
+DESCRIPTION=PW-UAT-oracle@u01lxoramt02
+HOSTNAME=u01lxoramt02.suedleasing-itu.com
+HOST=u01lxoramt02
+DOMAIN=suedleasing-itu.com
+USER=oracle
+APP=PW
+ENV=UAT
+DESCRIPTION={APP}-{ENV}-{USER}@{HOST}
+HOSTNAME={HOST}.{DOMAIN}
+
+
+-------------
+#DESCRIPTION#
+#HOSTNAME#
+#USER#
